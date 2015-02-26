@@ -131,6 +131,7 @@ $timeout(function(){
 $timeout(function(){
 	ec.hideLoading(['chart1','chart2','chart3']);
 },2500);
+```
 
 ### connect(ids)
 #### 说明：多图联动，传入echarts对应的id，支持可变参数和数组，[详情](http://echarts.baidu.com/doc/doc.html#实例方法)；
@@ -144,6 +145,7 @@ $timeout(function(){
 	// 写法2
 	ec.connect(['chart1','chart2']);
 });
+```
 
 ### addMap(mapName,mapPath,specialArea)
 #### 说明：扩展使用自定义地图，[详情](http://echarts.baidu.com/doc/doc.html#附录地图扩展)；
@@ -155,3 +157,4 @@ $timeout(function(){
 $timeout(function(){
 	ec.addMap("FS","data/fs.json");
 });
+```
