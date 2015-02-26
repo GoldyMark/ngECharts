@@ -4,7 +4,14 @@ Baidu ECharts(http://echarts.baidu.com) 的AngularJS封装包。
 
 ## 说明：
 1. 本插件受https://github.com/violet-day/angular-echarts 启发，本着学习AngularJS而写；
-2. 封装了echarts的**showLoading**,**hideLoading**,**connect**和**添加自定义地图的方法**；
+2. 封装了echarts的**showLoading**, **hideLoading**, **connect**和**添加自定义地图的方法**；
+
+## 其他Baidu ECharts的AngularJS插件，以供参考（收录日期：2015年2月26日）
+- https://github.com/wangshijun/angular-echarts
+- https://github.com/violet-day/angular-echarts
+- https://github.com/zuiyuexuan/angularjs-requirejs-echarts
+- https://github.com/xuhuan/angular-echarts
+- https://github.com/liekkas/ng-echarts
 
 ## Demo:
 http://goldymark.github.io/ngECharts/
