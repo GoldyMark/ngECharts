@@ -1,6 +1,6 @@
 #ngECharts
 
-Baidu ECharts(http://echarts.baidu.com)的AngularJS封装包。
+Baidu ECharts(http://echarts.baidu.com) 的AngularJS封装包。
 
 ## 说明：
 1. 本插件受https://github.com/violet-day/angular-echarts 启发，本着学习AngularJS而写；
